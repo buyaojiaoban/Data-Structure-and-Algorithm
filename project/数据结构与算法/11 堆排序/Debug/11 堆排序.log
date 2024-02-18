@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(11 堆排序.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  11 二叉堆.cpp
+C:\Users\admin\Desktop\数据结构与算法\project\数据结构与算法\11 堆排序\11 二叉堆.cpp(172,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  11 堆排序.vcxproj -> C:\Users\admin\Desktop\数据结构与算法\project\数据结构与算法\Debug\11 二叉堆.exe
